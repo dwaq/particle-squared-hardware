@@ -180,8 +180,6 @@
 <wire x1="0.508" y1="14.478" x2="0" y2="13.97" width="0" layer="20"/>
 <wire x1="0" y1="13.97" x2="0" y2="2.54" width="0" layer="20"/>
 <wire x1="0" y1="2.54" x2="2.54" y2="0" width="0" layer="20" curve="90"/>
-<hole x="48.26" y="25.4" drill="2.54"/>
-<hole x="48.26" y="7.62" drill="2.54"/>
 <text x="21.59" y="24.257" size="1.016" layer="22" ratio="12" rot="SMR270" align="center">USB</text>
 <text x="41.9354" y="23.9522" size="1.016" layer="22" ratio="12" rot="MR90" align="center">SCL</text>
 <text x="44.6278" y="23.876" size="1.016" layer="22" ratio="12" rot="MR270" align="center">SDA</text>
