@@ -30,11 +30,11 @@
 <layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="yes"/>
 <layer number="21" name="tPlace" color="14" fill="1" visible="yes" active="yes"/>
-<layer number="22" name="bPlace" color="14" fill="1" visible="no" active="yes"/>
+<layer number="22" name="bPlace" color="14" fill="1" visible="yes" active="yes"/>
 <layer number="23" name="tOrigins" color="14" fill="1" visible="yes" active="yes"/>
-<layer number="24" name="bOrigins" color="13" fill="1" visible="no" active="yes"/>
+<layer number="24" name="bOrigins" color="13" fill="1" visible="yes" active="yes"/>
 <layer number="25" name="tNames" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="no" active="yes"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="27" name="tValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="28" name="bValues" color="7" fill="1" visible="no" active="yes"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="yes"/>
@@ -48,9 +48,9 @@
 <layer number="37" name="tTest" color="7" fill="1" visible="no" active="yes"/>
 <layer number="38" name="bTest" color="7" fill="1" visible="no" active="yes"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="yes" active="yes"/>
-<layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="yes"/>
+<layer number="40" name="bKeepout" color="1" fill="11" visible="yes" active="yes"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="yes" active="yes"/>
-<layer number="42" name="bRestrict" color="1" fill="10" visible="no" active="yes"/>
+<layer number="42" name="bRestrict" color="1" fill="10" visible="yes" active="yes"/>
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="yes"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="yes"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="yes"/>
@@ -60,7 +60,7 @@
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
-<layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
+<layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
@@ -167,11 +167,12 @@
 <board>
 <fusionsync huburn="a.cGVyc29uYWw6dWUyZDcxOWFm" projecturn="a.cGVyc29uYWw6dWUyZDcxOWFmIzIwMTkwMzIxMTgzNjY2NTgx" f3durn="urn:adsk.wipprod:dm.lineage:of-WC7iUTR6j-QJaXZ4WSA" pcbguid="2ada34ed-02e3-4764-ae65-c304e2d58fe2" lastpulledtime="" lastsyncedchangeguid="c324f360-4e1b-41e3-ea26-84c460706219"/>
 <plain>
-<wire x1="2.54" y1="0" x2="53.34" y2="0" width="0" layer="20"/>
-<wire x1="53.34" y1="0" x2="55.88" y2="2.54" width="0" layer="20" curve="90"/>
-<wire x1="55.88" y1="2.54" x2="55.88" y2="30.48" width="0" layer="20"/>
-<wire x1="55.88" y1="30.48" x2="53.34" y2="33.02" width="0" layer="20" curve="90"/>
-<wire x1="53.34" y1="33.02" x2="2.54" y2="33.02" width="0" layer="20"/>
+<wire x1="2.54" y1="0" x2="44.46" y2="0" width="0" layer="20"/>
+<wire x1="44.46" y1="0" x2="47" y2="2.54" width="0" layer="20" curve="90"/>
+<wire x1="47" y1="2.54" x2="47" y2="11.43" width="0" layer="20"/>
+<wire x1="47" y1="21.082" x2="47" y2="30.48" width="0" layer="20"/>
+<wire x1="47" y1="30.48" x2="44.46" y2="33.02" width="0" layer="20" curve="90"/>
+<wire x1="44.46" y1="33.02" x2="2.54" y2="33.02" width="0" layer="20"/>
 <wire x1="2.54" y1="33.02" x2="0" y2="30.48" width="0" layer="20" curve="90"/>
 <wire x1="0" y1="30.48" x2="0" y2="19.05" width="0" layer="20"/>
 <wire x1="0" y1="19.05" x2="0.508" y2="18.542" width="0" layer="20"/>
@@ -932,12 +933,9 @@
 <rectangle x1="50.85841875" y1="17.50695" x2="51.23688125" y2="17.57045" layer="22" rot="R180"/>
 <rectangle x1="46.41341875" y1="17.50695" x2="46.85538125" y2="17.57045" layer="22" rot="R180"/>
 <rectangle x1="40.63238125" y1="17.50695" x2="41.01591875" y2="17.57045" layer="22" rot="R180"/>
-<wire x1="33.528" y1="11.43" x2="20.574" y2="11.43" width="0" layer="20"/>
+<wire x1="47" y1="11.43" x2="20.574" y2="11.43" width="0" layer="20"/>
 <wire x1="20.574" y1="11.43" x2="17.272" y2="14.351" width="0" layer="20" curve="-90"/>
-<wire x1="33.528" y1="11.43" x2="36.068" y2="14.605" width="0" layer="20" curve="90"/>
-<wire x1="36.068" y1="14.605" x2="36.068" y2="17.78" width="0" layer="20"/>
-<wire x1="36.068" y1="17.78" x2="33.528" y2="21.082" width="0" layer="20" curve="90"/>
-<wire x1="33.528" y1="21.082" x2="20.32" y2="21.082" width="0" layer="20"/>
+<wire x1="47" y1="21.082" x2="20.32" y2="21.082" width="0" layer="20"/>
 <wire x1="20.32" y1="21.082" x2="17.272" y2="18.161" width="0" layer="20" curve="90"/>
 <wire x1="17.272" y1="18.161" x2="19.05" y2="18.161" width="0" layer="20"/>
 <wire x1="19.05" y1="18.161" x2="20.32" y2="19.304" width="0" layer="20" curve="-90"/>
