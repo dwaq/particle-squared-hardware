@@ -999,47 +999,47 @@ einem neuen Namen ab.</description>
 <attribute name="NAME" x="29.4386" y="18.669" size="0.8128" layer="25" rot="R180"/>
 <attribute name="VOLTHIGH" value="50V" x="28.8798" y="16.9926" size="1.778" layer="27" rot="R90" display="off"/>
 </element>
-<element name="R2" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="100k" x="12.588" y="14.816" smashed="yes" rot="R180">
-<attribute name="DIGIKEYPN" value="311-100KLRCT-ND" x="12.588" y="14.816" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="RC0402FR07100KL" x="12.588" y="14.816" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="9.5354" y="14.394" size="0.8128" layer="25"/>
-<attribute name="TOLERANCE" value="1%" x="12.588" y="14.816" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VENDOR" value="Yageo" x="12.588" y="14.816" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="R2" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="100k" x="10.16" y="14.816" smashed="yes" rot="MR0">
+<attribute name="DIGIKEYPN" value="311-100KLRCT-ND" x="10.16" y="14.816" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MPN" value="RC0402FR07100KL" x="10.16" y="14.816" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="NAME" x="6.985" y="15.238" size="0.8128" layer="26" rot="MR180"/>
+<attribute name="TOLERANCE" value="1%" x="10.16" y="14.816" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="VENDOR" value="Yageo" x="10.16" y="14.816" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="R3" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="100k" x="12.588" y="13.673" smashed="yes" rot="R180">
-<attribute name="DIGIKEYPN" value="311-100KLRCT-ND" x="12.588" y="13.673" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="RC0402FR07100KL" x="12.588" y="13.673" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="9.4846" y="13.2764" size="0.8128" layer="25"/>
-<attribute name="TOLERANCE" value="1%" x="12.588" y="13.673" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VENDOR" value="Yageo" x="12.588" y="13.673" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="R3" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="100k" x="10.16" y="13.673" smashed="yes" rot="MR0">
+<attribute name="DIGIKEYPN" value="311-100KLRCT-ND" x="10.16" y="13.673" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MPN" value="RC0402FR07100KL" x="10.16" y="13.673" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="NAME" x="6.985" y="14.0696" size="0.8128" layer="26" rot="MR180"/>
+<attribute name="TOLERANCE" value="1%" x="10.16" y="13.673" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="VENDOR" value="Yageo" x="10.16" y="13.673" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="R6" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="100k" x="12.588" y="12.53" smashed="yes" rot="R180">
-<attribute name="DIGIKEYPN" value="311-100KLRCT-ND" x="12.588" y="12.53" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="MPN" value="RC0402FR07100KL" x="12.588" y="12.53" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="NAME" x="9.398" y="10.9728" size="0.8128" layer="25"/>
-<attribute name="TOLERANCE" value="1%" x="12.588" y="12.53" size="1.778" layer="27" rot="R180" display="off"/>
-<attribute name="VENDOR" value="Yageo" x="12.588" y="12.53" size="1.778" layer="27" rot="R180" display="off"/>
+<element name="R6" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="100k" x="10.16" y="12.53" smashed="yes" rot="MR0">
+<attribute name="DIGIKEYPN" value="311-100KLRCT-ND" x="10.16" y="12.53" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MPN" value="RC0402FR07100KL" x="10.16" y="12.53" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="NAME" x="6.985" y="12.9442" size="0.8128" layer="26" rot="MR180"/>
+<attribute name="TOLERANCE" value="1%" x="10.16" y="12.53" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="VENDOR" value="Yageo" x="10.16" y="12.53" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="R9" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="100k" x="12.558" y="11.346" smashed="yes">
-<attribute name="DIGIKEYPN" value="311-100KLRCT-ND" x="12.558" y="11.346" size="1.778" layer="27" display="off"/>
-<attribute name="MPN" value="RC0402FR07100KL" x="12.558" y="11.346" size="1.778" layer="27" display="off"/>
-<attribute name="NAME" x="9.4338" y="12.0826" size="0.8128" layer="25"/>
-<attribute name="TOLERANCE" value="1%" x="12.558" y="11.346" size="1.778" layer="27" display="off"/>
-<attribute name="VENDOR" value="Yageo" x="12.558" y="11.346" size="1.778" layer="27" display="off"/>
+<element name="R9" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="100k" x="10.16" y="11.346" smashed="yes" rot="MR180">
+<attribute name="DIGIKEYPN" value="311-100KLRCT-ND" x="10.16" y="11.346" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="MPN" value="RC0402FR07100KL" x="10.16" y="11.346" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="NAME" x="6.985" y="11.7524" size="0.8128" layer="26" rot="MR180"/>
+<attribute name="TOLERANCE" value="1%" x="10.16" y="11.346" size="1.778" layer="28" rot="MR180" display="off"/>
+<attribute name="VENDOR" value="Yageo" x="10.16" y="11.346" size="1.778" layer="28" rot="MR180" display="off"/>
 </element>
-<element name="R4" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="20k" x="9.144" y="21.082" smashed="yes" rot="R270">
-<attribute name="DIGIKEYPN" value="311-20.0KLRCT-ND" x="9.144" y="21.082" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MPN" value="RC0402FR-0720KL" x="9.144" y="21.082" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="9.4742" y="17.9578" size="0.8128" layer="25" rot="R90"/>
-<attribute name="TOLERANCE" value="1%" x="9.144" y="21.082" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VENDOR" value="Yageo" x="9.144" y="21.082" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="R4" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="20k" x="10.16" y="20.828" smashed="yes" rot="MR0">
+<attribute name="DIGIKEYPN" value="311-20.0KLRCT-ND" x="10.16" y="20.828" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MPN" value="RC0402FR-0720KL" x="10.16" y="20.828" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="NAME" x="6.985" y="21.1582" size="0.8128" layer="26" rot="MR180"/>
+<attribute name="TOLERANCE" value="1%" x="10.16" y="20.828" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="VENDOR" value="Yageo" x="10.16" y="20.828" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
-<element name="R5" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="20k" x="10.2616" y="21.082" smashed="yes" rot="R270">
-<attribute name="DIGIKEYPN" value="311-20.0KLRCT-ND" x="10.2616" y="21.082" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="MPN" value="RC0402FR-0720KL" x="10.2616" y="21.082" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="NAME" x="10.5664" y="17.8816" size="0.8128" layer="25" rot="R90"/>
-<attribute name="TOLERANCE" value="1%" x="10.2616" y="21.082" size="1.778" layer="27" rot="R270" display="off"/>
-<attribute name="VENDOR" value="Yageo" x="10.2616" y="21.082" size="1.778" layer="27" rot="R270" display="off"/>
+<element name="R5" library="wolff-den" library_urn="urn:adsk.eagle:library:6370453" package="R0402" package3d_urn="urn:adsk.eagle:package:5807335/2" value="20k" x="10.16" y="19.7104" smashed="yes" rot="MR0">
+<attribute name="DIGIKEYPN" value="311-20.0KLRCT-ND" x="10.16" y="19.7104" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MPN" value="RC0402FR-0720KL" x="10.16" y="19.7104" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="NAME" x="6.985" y="20.0152" size="0.8128" layer="26" rot="MR180"/>
+<attribute name="TOLERANCE" value="1%" x="10.16" y="19.7104" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="VENDOR" value="Yageo" x="10.16" y="19.7104" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
 </elements>
 <signals>
@@ -1115,7 +1115,6 @@ einem neuen Namen ab.</description>
 <contactref element="R5" pad="2"/>
 <wire x1="27.432" y1="16.85645" x2="27.72585" y2="16.5626" width="0.2032" layer="1"/>
 <wire x1="27.72585" y1="16.5626" x2="28.8798" y2="16.5626" width="0.2032" layer="1"/>
-<wire x1="11.938" y1="14.816" x2="11.811" y2="14.816" width="0.2032" layer="1"/>
 <wire x1="29.6962" y1="16.4048" x2="30.226" y2="16.4048" width="0.2032" layer="1"/>
 <wire x1="28.8798" y1="16.5626" x2="29.5384" y2="16.5626" width="0.2032" layer="1"/>
 <wire x1="29.5384" y1="16.5626" x2="29.6962" y2="16.4048" width="0.2032" layer="1"/>
@@ -1125,12 +1124,12 @@ einem neuen Namen ab.</description>
 <wire x1="20.51505" y1="17.731" x2="21.336" y2="17.731" width="0.3048" layer="1"/>
 <wire x1="22.606" y1="17.6908" x2="21.3762" y2="17.6908" width="0.3048" layer="1"/>
 <wire x1="21.3762" y1="17.6908" x2="21.336" y2="17.731" width="0.3048" layer="1"/>
-<wire x1="9.144" y1="20.432" x2="10.2616" y2="20.432" width="0" layer="19" extent="1-1"/>
-<wire x1="13.57226875" y1="17.145" x2="10.2616" y2="20.432" width="0" layer="19" extent="1-16"/>
-<wire x1="11.938" y1="14.816" x2="13.57226875" y2="17.145" width="0" layer="19" extent="1-16"/>
-<wire x1="11.938" y1="13.673" x2="11.938" y2="14.816" width="0" layer="19" extent="1-1"/>
-<wire x1="11.938" y1="12.53" x2="11.938" y2="13.673" width="0" layer="19" extent="1-1"/>
-<wire x1="8.89" y1="6.35" x2="11.938" y2="12.53" width="0" layer="19" extent="1-1"/>
+<wire x1="9.51" y1="19.7104" x2="9.51" y2="20.828" width="0" layer="19" extent="1-1"/>
+<wire x1="13.57226875" y1="17.145" x2="9.51" y2="19.7104" width="0" layer="19" extent="1-16"/>
+<wire x1="9.51" y1="14.816" x2="13.57226875" y2="17.145" width="0" layer="19" extent="16-16"/>
+<wire x1="9.51" y1="13.673" x2="9.51" y2="14.816" width="0" layer="19" extent="16-16"/>
+<wire x1="9.51" y1="12.53" x2="9.51" y2="13.673" width="0" layer="19" extent="16-16"/>
+<wire x1="8.89" y1="6.35" x2="9.51" y2="12.53" width="0" layer="19" extent="16-16"/>
 </signal>
 <signal name="VBUS">
 <contactref element="JP3" pad="3"/>
@@ -1160,7 +1159,7 @@ einem neuen Namen ab.</description>
 <wire x1="25.272415625" y1="14.77645" x2="25.959834375" y2="14.08903125" width="0.2032" layer="16"/>
 <wire x1="23.637721875" y1="14.77645" x2="25.272415625" y2="14.77645" width="0.2032" layer="16"/>
 <wire x1="25.116" y1="16.4908" x2="24.13" y2="26.67" width="0" layer="19" extent="1-1"/>
-<wire x1="13.238" y1="12.53" x2="17.1863375" y2="15.5956" width="0" layer="19" extent="1-16"/>
+<wire x1="10.81" y1="12.53" x2="17.1863375" y2="15.5956" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="A0">
 <contactref element="JP1" pad="12"/>
@@ -1185,7 +1184,7 @@ einem neuen Namen ab.</description>
 <wire x1="22.606" y1="15.2908" x2="21.8948" y2="15.2908" width="0.2032" layer="1"/>
 <wire x1="21.8948" y1="15.2908" x2="21.2471" y2="14.6431" width="0.2032" layer="1"/>
 <wire x1="30.226" y1="15.4048" x2="41.91" y2="26.67" width="0" layer="19" extent="1-1"/>
-<wire x1="9.144" y1="21.732" x2="17.272" y2="16.383" width="0" layer="19" extent="1-1"/>
+<wire x1="10.81" y1="20.828" x2="17.272" y2="16.383" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="SDA">
 <contactref element="JP3" pad="12"/>
@@ -1206,7 +1205,7 @@ einem neuen Namen ab.</description>
 <via x="20.494696875" y="14.34789375" extent="1-16" drill="0.3937"/>
 <contactref element="R5" pad="1"/>
 <wire x1="33.126" y1="15.4048" x2="44.45" y2="26.67" width="0" layer="19" extent="1-1"/>
-<wire x1="10.2616" y1="21.732" x2="16.7415875" y2="15.9512" width="0" layer="19" extent="1-1"/>
+<wire x1="10.81" y1="19.7104" x2="16.7415875" y2="15.9512" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="D4">
 <contactref element="JP3" pad="8"/>
@@ -1219,7 +1218,7 @@ einem neuen Namen ab.</description>
 <wire x1="21.0278" y1="17.0908" x2="20.7264" y2="16.7894" width="0.2032" layer="1"/>
 <wire x1="20.7264" y1="16.7894" x2="17.1036625" y2="16.7894" width="0.2032" layer="1"/>
 <wire x1="22.606" y1="17.0908" x2="29.21" y2="26.67" width="0" layer="19" extent="1-1"/>
-<wire x1="13.238" y1="13.673" x2="17.1036625" y2="16.7894" width="0" layer="19" extent="1-1"/>
+<wire x1="10.81" y1="13.673" x2="17.1036625" y2="16.7894" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="D5">
 <contactref element="JP3" pad="7"/>
@@ -1238,7 +1237,7 @@ einem neuen Namen ab.</description>
 <wire x1="19.5420625" y1="16.4084" x2="14.6177" y2="16.4084" width="0.2032" layer="16"/>
 <wire x1="22.3425375" y1="17.2212" x2="20.3548625" y2="17.2212" width="0.2032" layer="16"/>
 <wire x1="26.6119625" y1="15.875" x2="31.75" y2="26.67" width="0" layer="19" extent="16-16"/>
-<wire x1="13.238" y1="14.816" x2="14.6177" y2="16.4084" width="0" layer="19" extent="1-16"/>
+<wire x1="10.81" y1="14.816" x2="14.6177" y2="16.4084" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="TX">
 <contactref element="JP1" pad="2"/>
@@ -1277,7 +1276,7 @@ einem neuen Namen ab.</description>
 <wire x1="26.26868125" y1="14.93011875" x2="26.416" y2="14.93011875" width="0.2032" layer="1"/>
 <wire x1="25.87751875" y1="15.4686" x2="26.416" y2="14.93011875" width="0.2032" layer="16"/>
 <wire x1="23.5204" y1="15.4686" x2="25.87751875" y2="15.4686" width="0.2032" layer="16"/>
-<wire x1="13.208" y1="11.346" x2="16.764" y2="16.002" width="0" layer="19" extent="1-16"/>
+<wire x1="10.81" y1="11.346" x2="16.764" y2="16.002" width="0" layer="19" extent="1-16"/>
 </signal>
 <signal name="N$5">
 <contactref element="U2" pad="5"/>
