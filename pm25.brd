@@ -185,21 +185,21 @@
 <text x="44.6278" y="23.876" size="1.016" layer="21" ratio="12" rot="R270" align="center">SDA</text>
 <text x="16.51" y="24.257" size="1.016" layer="21" ratio="12" rot="R270" align="center">BAT</text>
 <text x="19.05" y="24.638" size="1.016" layer="21" ratio="12" rot="R270" align="center">En</text>
-<text x="6.35" y="8.8646" size="1.016" layer="21" ratio="12" rot="R270" align="center">RST</text>
+<text x="6.35" y="8.89" size="1.016" layer="21" ratio="12" rot="R270" align="center">RST</text>
 <text x="11.303" y="8.7376" size="1.016" layer="21" ratio="12" rot="R270" align="center">MD</text>
 <text x="8.763" y="8.9408" size="1.016" layer="21" ratio="12" rot="R270" align="center">3V3</text>
-<text x="29.21" y="8.255" size="1.016" layer="21" ratio="12" rot="R270" align="center">A5</text>
-<text x="26.543" y="8.255" size="1.016" layer="21" ratio="12" rot="R270" align="center">A4</text>
-<text x="24.13" y="8.255" size="1.016" layer="21" ratio="12" rot="R270" align="center">A3</text>
-<text x="21.463" y="8.255" size="1.016" layer="21" ratio="12" rot="R270" align="center">A2</text>
-<text x="18.923" y="8.128" size="1.016" layer="21" ratio="12" rot="R270" align="center">A1</text>
-<text x="16.51" y="8.255" size="1.016" layer="21" ratio="12" rot="R270" align="center">A0</text>
-<text x="31.496" y="8.636" size="1.016" layer="21" ratio="12" rot="R270" align="center">SCK</text>
-<text x="34.036" y="8.763" size="0.889" layer="21" ratio="12" rot="R270" align="center">MOSI</text>
-<text x="36.449" y="8.763" size="0.889" layer="21" ratio="12" rot="R270" align="center">MISO</text>
-<text x="39.243" y="7.874" size="1.016" layer="21" ratio="12" rot="R180" align="center">RX</text>
+<text x="29.21" y="8.382" size="1.016" layer="21" ratio="12" rot="R270" align="center">A5</text>
+<text x="26.543" y="8.382" size="1.016" layer="21" ratio="12" rot="R270" align="center">A4</text>
+<text x="24.13" y="8.382" size="1.016" layer="21" ratio="12" rot="R270" align="center">A3</text>
+<text x="21.463" y="8.382" size="1.016" layer="21" ratio="12" rot="R270" align="center">A2</text>
+<text x="18.923" y="8.382" size="1.016" layer="21" ratio="12" rot="R270" align="center">A1</text>
+<text x="16.51" y="8.382" size="1.016" layer="21" ratio="12" rot="R270" align="center">A0</text>
+<text x="31.75" y="8.763" size="1.016" layer="21" ratio="12" rot="R270" align="center">SCK</text>
+<text x="34.29" y="8.89" size="0.889" layer="21" ratio="12" rot="R270" align="center">MOSI</text>
+<text x="36.83" y="8.89" size="0.889" layer="21" ratio="12" rot="R270" align="center">MISO</text>
+<text x="39.37" y="7.874" size="1.016" layer="21" ratio="12" rot="R180" align="center">RX</text>
 <text x="41.91" y="7.874" size="1.016" layer="21" ratio="12" rot="R180" align="center">TX</text>
-<text x="13.843" y="8.128" size="1.016" layer="21" ratio="12" align="center">GND</text>
+<text x="13.97" y="8.128" size="1.016" layer="21" ratio="12" align="center">GND</text>
 <text x="44.45" y="7.874" size="1.016" layer="21" ratio="12" align="center">NC</text>
 <dimension x1="0" y1="23.876" x2="50.8" y2="19.812" x3="25.4" y3="35.814" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="2.54" y1="7.62" x2="48.26" y2="7.62" x3="25.4" y3="-0.762" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
