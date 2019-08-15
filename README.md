@@ -1,10 +1,10 @@
-# Particle Squared
+# Particle Squared - Bare Bones
 
-![Render](images/render.png)
+This is a forked version of [Jared Wolff's Particle Squared Hardware](https://bitbucket.org/circuitdojo/particle-squared-hardware). For more information on that board, [visit his website](https://www.jaredwolff.com/particle-squared-air-quality-sensor/). To support him and his work, you can  [order his sensors from here](https://www.jaredwolff.com/store/particle-squared/).
 
-Particle^2 (pronounced Particle Squared) is a circuit board that helps you monitor the air quality around you. This repository is the Eagle Files for Particle^2 which enables you to monitor humidity, temperature, air particulates, eC02 and TVOCs in one small package. You can use it with an Adafruit Feather compatible board or the newest mesh enabled boards from Particle. [For more information click here.](https://www.jaredwolff.com/particle-squared-air-quality-sensor/)
+Particle^2 (pronounced Particle Squared) is a circuit board that helps you monitor the air quality around you. I call my fork of the project "Bare Bones" because I removed the air particulate sensor. It can still monitor humidity, temperature, eCO2 and TVOCs.
 
-[To get yours go here.](https://www.jaredwolff.com/store/particle-squared/)
+I also made some minor changes to the project to suit my goals.
 
 ## License
 
