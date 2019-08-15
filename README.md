@@ -6,6 +6,10 @@ Particle^2 (pronounced Particle Squared) is a circuit board that helps you monit
 
 I also made some minor changes to the project to suit my goals.
 
+This project was designed using Autodesk Eagle.
+
+The [Eagle-Renders](/Eagle-Renders) directory contains PDF and PNG renders of the schematic and board layout.
+
 ## License
 
 The license for these files is: [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). See included `LICENSE` file for all the legal stuff.
