@@ -10,6 +10,8 @@ This project was designed using Autodesk Eagle.
 
 The [Eagle-Renders](/Eagle-Renders) directory contains PDF and PNG renders of the schematic and board layout.
 
+[Here is a shared project on Mouser for the BOM for one PCB.](https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=5dd38de383)
+
 ## License
 
 The license for these files is: [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/). See included `LICENSE` file for all the legal stuff.
